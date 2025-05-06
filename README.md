@@ -1,1 +1,3 @@
-# nexign-bootcamp-project
+# Nexign Bootcamp Project
+
+## Описание задания
